@@ -1,0 +1,9 @@
+{
+	"sniffer": "Charles, Fiddler",
+	"database": "SQL, Postgres, Redis",
+	"Stress Test": "Jmeter",
+	"method developer": "Scrum",
+	"test design": "Equivalence classes, Boundary values",
+	"dev tools": "Google Chrome, Firefox",
+	"mobile test": "Ios, Android"
+}
