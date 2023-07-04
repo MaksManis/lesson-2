@@ -1,0 +1,9 @@
+<skils>
+	<sniffer>Charles, Fiddler</sniffer>
+	<database>SQL, Possgres, Redis</database>
+	<stress_test>Jmeter</stress_test>
+	<method_developer>Scrum</method_developer>
+	<test_design>Equivalence classes, Boundary values</test_design>
+	<dev_tools>Google Chrome, Firefox</dev_tools>
+	<mobile_test>IOS, Android</mobile_test>
+</skils>
