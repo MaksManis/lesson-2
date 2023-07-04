@@ -1,1 +1,17 @@
-
+<bug_report>
+  <Summary>Can't change the first name in profile</Summary>
+  <Severity>Low</Severity>
+  <Priority>Medium</Priority>
+  <Developer>Window 10, Chrome v.12</Developer>
+  <Attachment>...</Attachment>
+  <Assignment>Ksendzov</Assignment>
+  <description>
+    <Steps>
+      <1>Open profile</1>
+      <2>Click on the field with the first name</2>
+      </Steps>
+    <Actual_Result>The user can't select the field</Actual_Result>
+    <Expected_Result>The user can select a field and change the name</Expected_Result>
+  </description>
+  <Status>Open</Status>
+</bug_report>
