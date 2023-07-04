@@ -1,0 +1,8 @@
+My future skils in curses:
+1) sniffer - Charles, Fiddler
+2) database - SQL, Postgres, Redis
+3) Stress Test - Jmeter
+4) method developer- Scrum
+5) test design - Equivalence classes, Boundary values
+6)dev tools - Google Chrome, Firefox
+7) mobile test - Ios, Android
