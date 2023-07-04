@@ -1,0 +1,8 @@
+<person>
+	<firstName>Maksym</firstName>
+	<lastName>Manis</lastName>
+	<middleName>Mukolayovych</middleName>
+	<age>30</age>
+	<pets>one cat</pets>
+	<salary>500$</salary>
+</person>
